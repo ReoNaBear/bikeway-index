@@ -119,7 +119,7 @@
         .bike-img {
           background-repeat: no-repeat;
           background-size: contain;
-          background-image: url('/img/index/bike.png');
+          background-image: url('./img/index/bike.png');
           width: 27vw;
           height: 38vw;
           position: absolute;
@@ -154,7 +154,7 @@
           display: none;
           width: 3vw;
           height: 3vw;
-          background-image: url('/img/index/moving-bike-02.png');
+          background-image: url('./img/index/moving-bike-02.png');
           transform: rotateY(-180deg);
           background-position: center;
           background-repeat: no-repeat;
@@ -217,11 +217,11 @@
         }
 
         .left-1 {
-          background-image: url('/img/index/首頁方框用.png'), url('/img/index/25-news.ltn.com.tw-Larch-1.jpg');
+          background-image: url('./img/index/首頁方框用.png'), url('./img/index/25-news.ltn.com.tw-Larch-1.jpg');
         }
 
         .left-2 {
-          background-image: url('/img/index/首頁方框用.png'), url('/img/index/10-alberthsieh.com-26323-flpo_horse.jpg');
+          background-image: url('./img/index/首頁方框用.png'), url('./img/index/10-alberthsieh.com-26323-flpo_horse.jpg');
         }
 
         /* 右圖 */
@@ -232,11 +232,11 @@
         }
 
         .right-1 {
-          background-image: url('/img/index/首頁方框用.png'), url('/img/index/13-blue74.net-200days-4.jpg');
+          background-image: url('./img/index/首頁方框用.png'), url('./img/index/13-blue74.net-200days-4.jpg');
         }
 
         .right-2 {
-          background-image: url('/img/index/首頁方框用.png'), url('/img/index/07-www.tourism.taichung.gov.tw-No9Tunnel-2.jpg');
+          background-image: url('./img/index/首頁方框用.png'), url('./img/index/07-www.tourism.taichung.gov.tw-No9Tunnel-2.jpg');
         }
 
         .gorgeousness-text {
@@ -334,7 +334,7 @@
         .mountain {
           width: 100vw;
           height: 37.892vw;
-          background-image: url('/img/index/mountain.jpg');
+          background-image: url('./img/index/mountain.jpg');
           background-position: center;
           background-repeat: no-repeat;
           background-size: contain;
@@ -458,7 +458,7 @@
           position: absolute;
           bottom: 4.85%;
           right: 10.5%;
-          background-image: url('/img/index/滑鼠01.png'), url('/img/index/告示牌-04.png');
+          background-image: url('./img/index/滑鼠01.png'), url('./img/index/告示牌-04.png');
           background-size: 38%, contain;
           background-repeat: no-repeat;
           background-position: 54% 20%, center;
